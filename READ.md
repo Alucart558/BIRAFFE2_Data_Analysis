@@ -1,0 +1,1 @@
+# Czy istnieją zależności pomiędzy reakcją fizjologiczną (EDA) a odczuwanymi emocjami (arousal)?
